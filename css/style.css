@@ -5,3 +5,11 @@ body{
 h1{
   text-align: center;
 }
+
+#description{
+  text-align: center;
+}
+
+.row{
+  margin: 60px;
+}
