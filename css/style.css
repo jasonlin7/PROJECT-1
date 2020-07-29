@@ -13,3 +13,7 @@ h1{
 .row{
   margin: 60px;
 }
+
+#videoTitle{
+  text-align: center;
+}
